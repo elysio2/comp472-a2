@@ -1,0 +1,12 @@
+
+A* with h1 - 5
+
+Total search path: 432017
+Total solution path: 89
+Average search path: 8640.340000
+Average solution path: 1.780000
+Total no solution : 0
+Total cost: 99
+Total time: 19.615411 seconds
+Average cost: 1.980000
+Average time: 0.392308

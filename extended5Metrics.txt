@@ -1,0 +1,12 @@
+
+GBFS with h1 - 5
+
+Total search path: 1412
+Total solution path: 255
+Average search path: 282.400000
+Average solution path: 51.000000
+Total no solution : 0
+Total cost: 398
+Total time: 0.069188 seconds
+Average cost: 79.600000
+Average time: 0.013838

@@ -1,0 +1,62 @@
+
+UCS
+
+Total search path: 1281599
+Total solution path: 618
+Average search path: 25631.980000
+Average solution path: 12.360000
+Total no solution : 0
+Total cost: 716
+Total time: 39.815236 seconds
+Average cost: 14.320000
+Average time: 0.796305
+\GBFS with h1
+
+Total search path: 7484
+Total solution path: 1594
+Average search path: 149.680000
+Average solution path: 31.880000
+Total no solution : 0
+Total cost: 2311
+Total time: 0.260726 seconds
+Average cost: 46.220000
+Average time: 0.005215
+\GBFS with h2
+
+Total search path: 11455
+Total solution path: 1614
+Average search path: 229.100000
+Average solution path: 32.280000
+Total no solution : 0
+Total cost: 2186
+Total time: 0.653573 seconds
+Average cost: 43.720000
+Average time: 0.013071
+\A* with h1
+
+Total search path: 110723
+Total solution path: 622
+Average search path: 2214.460000
+Average solution path: 12.440000
+Total no solution : 0
+Total cost: 717
+Total time: 4.594924 seconds
+Average cost: 14.340000
+Average time: 0.091898
+\A* with h2
+
+Total search path: 32345
+Total solution path: 646
+Average search path: 646.900000
+Average solution path: 12.920000
+Total no solution : 0
+Total cost: 729
+Total time: 1.762809 seconds
+Average cost: 14.580000
+Average time: 0.013071
+
+
+ GBFS with h1 found a path, on average 2.562701 times longer than optimal
+
+
+ GBFS with h2 found a path, on average 2.498452 times longer than optimal
