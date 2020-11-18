@@ -2,7 +2,7 @@ https://github.com/elysio2/comp472-a2
 
 # comp472-a2
 
-This is a jupyter notebook project, using python 3, not requiring any additional modules except those ioncluded in python (queue, time, random, collections).
+This is a jupyter notebook project, using python 3, not requiring any additional modules except those included in python (queue, time, random, collections).
 
 Heuristics: 
 
